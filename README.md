@@ -20,8 +20,6 @@ This project is a modern and responsive user registration form built using **HTM
 ### ❌ Invalid Form
 ![Invalid Form](./output1.png)
 
-> 📁 Place your screenshots inside a `screenshots/` folder in your project.
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -29,5 +27,4 @@ This project is a modern and responsive user registration form built using **HTM
 - JavaScript (Vanilla)
 - Font Awesome (via CDN)
 
-## 🧾 Project Structure
 
